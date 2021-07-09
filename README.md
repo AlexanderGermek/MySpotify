@@ -13,8 +13,10 @@ just spotify!
 
 7 | 8 | 9
 --- | --- | ---
-![Снимок экрана 2021-07-09 в 14 43 45](https://user-images.githubusercontent.com/76963888/125073445-a1efef00-e0c4-11eb-9bcb-5bc0cdc1fe9f.png)|![Снимок экрана 2021-07-09 в 14 44 07](https://user-images.githubusercontent.com/76963888/125073450-a3211c00-e0c4-11eb-980b-e782871c5d92.png)|![Снимок экрана 2021-07-09 в 14 43 58](https://user-images.githubusercontent.com/76963888/125073462-a61c0c80-e0c4-11eb-8b3f-12cf77df91c7.png)
+![Снимок экрана 2021-07-09 в 14 43 45](https://user-images.githubusercontent.com/76963888/125073445-a1efef00-e0c4-11eb-9bcb-5bc0cdc1fe9f.png)|![Снимок экрана 2021-07-09 в 15 26 24](https://user-images.githubusercontent.com/76963888/125077746-1da06a80-e0ca-11eb-963b-be7515fd3e20.png)|![Снимок экрана 2021-07-09 в 14 44 40](https://user-images.githubusercontent.com/76963888/125073461-a5837600-e0c4-11eb-90c3-99885b710518.png)
 
-10 | 11
---- | ---
-![Снимок экрана 2021-07-09 в 14 44 40](https://user-images.githubusercontent.com/76963888/125073461-a5837600-e0c4-11eb-90c3-99885b710518.png)|![Снимок экрана 2021-07-09 в 14 44 14](https://user-images.githubusercontent.com/76963888/125073453-a3211c00-e0c4-11eb-85ad-e7231e58ed40.png)
+
+10 | 11 | 12
+--- | --- | ---
+![Снимок экрана 2021-07-09 в 14 43 58](https://user-images.githubusercontent.com/76963888/125073462-a61c0c80-e0c4-11eb-8b3f-12cf77df91c7.png)|![Снимок экрана 2021-07-09 в 14 44 07](https://user-images.githubusercontent.com/76963888/125073450-a3211c00-e0c4-11eb-980b-e782871c5d92.png)|![Снимок экрана 2021-07-09 в 14 44 14](https://user-images.githubusercontent.com/76963888/125073453-a3211c00-e0c4-11eb-85ad-e7231e58ed40.png)|
+
