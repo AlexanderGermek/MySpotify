@@ -2,7 +2,7 @@
 //  LibraryAlbumsViewController.swift
 //  MySpotify
 //
-//  Created by iMac on 05.07.2021.
+//  Created by Alexander Germek on 05.07.2021.
 //
 
 import UIKit

@@ -2,7 +2,7 @@
 //  LibraryAlbumsResponse.swift
 //  MySpotify
 //
-//  Created by iMac on 08.07.2021.
+//  Created by Alexander Germek on 08.07.2021.
 //
 
 import Foundation

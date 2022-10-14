@@ -2,7 +2,7 @@
 //  BrowseSectionType.swift
 //  MySpotify
 //
-//  Created by iMac on 09.07.2021.
+//  Created by Alexander Germek on 09.07.2021.
 //
 
 import UIKit

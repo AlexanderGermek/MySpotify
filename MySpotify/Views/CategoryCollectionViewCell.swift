@@ -2,7 +2,7 @@
 //  CategoryCollectionViewCell.swift
 //  MySpotify
 //
-//  Created by iMac on 03.07.2021.
+//  Created by Alexander Germek on 03.07.2021.
 //
 
 import UIKit
