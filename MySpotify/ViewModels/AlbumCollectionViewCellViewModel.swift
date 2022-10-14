@@ -9,6 +9,6 @@ import Foundation
 
 
 struct AlbumCollectionVoewCellViewModel {
-    let name: String
-    let artistName: String
+	let name: String
+	let artistName: String
 }

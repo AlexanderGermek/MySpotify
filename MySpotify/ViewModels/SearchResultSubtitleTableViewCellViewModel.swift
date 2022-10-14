@@ -8,7 +8,7 @@ import UIKit
 
 
 struct SearchResultSubtitleTableViewCellViewModel {
-    let title: String
-    let subtitle: String
-    let imageURL: URL?
+	let title: String
+	let subtitle: String
+	let imageURL: URL?
 }
